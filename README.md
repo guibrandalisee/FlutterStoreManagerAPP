@@ -1,3 +1,5 @@
+[Versão em português desse arquivo](https://github.com/guibrandalisee/FlutterStoreManagerAPP/blob/master/READMEPT.md)
+
 # Store Manager APP
 
 This is a companion app for the **[Flutter Store APP](https://github.com/guibrandalisee/FlutterStoreApp)**
